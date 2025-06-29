@@ -31,7 +31,7 @@ It’s a personal productivity companion designed to keep you on track and help 
 
 | Screenshot | Description |
 |------------|-------------|
-| ![Main](screenshots/main_window.png) | Main Timer Window |
+| ![Main](screenshots/main_window.PNG) | Main Timer Window |
 
 ---
 
@@ -67,7 +67,8 @@ python main.py
 
 ## 📌 TODO Ideas
 
-- Customised user feed for the user based on their likes, saves, & Interests
+- Add clicking sounds to buttons
+- - Add an alarm when the timer ends
 
 ---
 
