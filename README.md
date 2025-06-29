@@ -69,6 +69,7 @@ python main.py
 
 - Add clicking sounds to buttons
 - Add an alarm when the timer ends
+- Or anything else you think of!
 
 ---
 
