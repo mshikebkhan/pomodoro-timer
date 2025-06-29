@@ -1,4 +1,4 @@
-# ⏳ Pomodoro Pulse – A Minimal Pomodoro Timer App
+# ⏳ Pomodoro Timer – A Python Tkinter Pomodoro Timer App
 
 **Pomodoro Pulse** is a lightweight, distraction-free timer tool built to help you stay focused and productive using the Pomodoro technique.  
 It’s designed to be simple, intuitive, and beginner-friendly — perfect for daily workflow, deep focus sessions, and mindful productivity.
