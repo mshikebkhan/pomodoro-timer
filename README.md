@@ -68,7 +68,7 @@ python main.py
 ## 📌 TODO Ideas
 
 - Add clicking sounds to buttons
-- - Add an alarm when the timer ends
+- Add an alarm when the timer ends
 
 ---
 
