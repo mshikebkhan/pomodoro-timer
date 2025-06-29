@@ -13,7 +13,7 @@ It’s a personal productivity companion designed to keep you on track and help 
 
 ## 💻 Download for Windows
 
-🔗 [Coming Soon / Add your download link here]
+🔗 [[Coming Soon / Add your download link here]](https://github.com/mshikebkhan/pomodoro-timer/releases/tag/v1.0.0)
 
 ---
 
