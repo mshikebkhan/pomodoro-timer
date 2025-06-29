@@ -53,6 +53,7 @@ venv\Scripts\activate         # For Windows
 pip install -r requirements.txt
 python main.py
 ```
+---
 
 ## 👥 Contributing
 
