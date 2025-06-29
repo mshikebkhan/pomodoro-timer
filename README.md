@@ -1,4 +1,54 @@
-This is a simple Python Tkinter based Pomodoro timer.
-This timer has 4 slots of work of 25 minutes each
-it takes 5 minutes break after each pomodoro and a long break of 20 minutes in the last pomodoro (work slot of 25 minutes).
+# ⏳ Pomodoro Pulse – A Minimal Pomodoro Timer App
 
+**Pomodoro Pulse** is a lightweight, distraction-free timer tool built to help you stay focused and productive using the Pomodoro technique.  
+It’s designed to be simple, intuitive, and beginner-friendly — perfect for daily workflow, deep focus sessions, and mindful productivity.
+
+---
+
+**The Mission:**  
+The app encourages users to break work into focused intervals followed by short breaks, improving efficiency and reducing burnout.  
+It’s a personal productivity companion designed to keep you on track and help you build better habits.
+
+---
+
+## 💻 Download for Windows
+
+🔗 [Coming Soon / Add your download link here]
+
+---
+
+## 🚀 Features
+
+⏱️ Start and Reset – Simple and intuitive controls to begin or restart a session.  
+🔔 Pomodoro Timing – 25-minute focus sessions with the option to reset anytime.  
+🧠 Minimal Design – Clutter-free UI focused on clean user experience.  
+📦 Lightweight – Small `.exe` size, no installation required.  
+🖥️ Standalone App – Runs directly on Windows with no setup.
+
+---
+
+## 📸 Screenshots
+
+| Screenshot | Description |
+|------------|-------------|
+| ![Main](screenshots/main_window.png) | Main Timer Window |
+
+---
+
+## 🛠 Tech Stack
+
+- **Language:** Python  
+- **GUI:** Tkinter  
+- **Build Tool:** PyInstaller
+
+---
+
+## ⚙️ Local Setup
+
+```bash
+git clone https://github.com/yourusername/pomodoro-pulse.git
+cd pomodoro-pulse
+python -m venv venv
+venv\Scripts\activate         # For Windows
+pip install -r requirements.txt
+python main.py
