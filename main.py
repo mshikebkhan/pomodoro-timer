@@ -64,7 +64,8 @@ def count_down(count):
 
 # ---- UI SETUP ----  #
 window = Tk()
-window.title("Pomodoro")
+window.iconbitmap("tomato.ico")
+window.title("Pomodoro Timer")
 window.config(padx=70, pady=20, bg=YELLOW)
 
 heading = Label(text="Work", font=(FONT_NAME, 28, "bold"), background=YELLOW)
@@ -79,10 +80,10 @@ canvas.pack()
 check = Label(font=(FONT_NAME, 15, "bold"), bg=YELLOW, fg=GREEN)
 check.pack(side="bottom")
 
-start_button = Button(text="Start", command=start_timer)
-start_button.pack(side="left")
-
 reset_button = Button(text="Reset", command=reset_timer)
-reset_button.pack(side="right")
+reset_button.pack(side="left")
+
+start_button = Button(text="Start", command=start_timer)
+start_button.pack(side="right")
 
 window.mainloop()
