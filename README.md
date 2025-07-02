@@ -46,11 +46,8 @@ It’s a personal productivity companion designed to keep you on track and help 
 ## ⚙️ Local Setup
 
 ```bash
-git clone https://github.com/mshikenkhan/pomodoro-pulse.git
-cd pomodoro-pulse
-python -m venv venv
-venv\Scripts\activate         # For Windows
-pip install -r requirements.txt
+git clone https://github.com/mshikenkhan/pomodoro-timer.git
+cd pomodoro-timer
 python main.py
 ```
 ---
